@@ -1,0 +1,22 @@
+body {
+    background-image: url(../img/background.png);
+    min-height: 100%;
+    width: 100%;
+    background-position: fixed;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center; 
+    vertical-align: middle;
+    color: #ccc;
+  }
+  
+  txtbig {
+    font-size: 40px;
+  }
+  
+  txtsml {
+    font-size: 25px;
+  }
